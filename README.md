@@ -1,7 +1,7 @@
 - Hello fellow Humans
 
-If you are in a wasting time frame of mind, and reading such stuff as this README, I will do my best to provide you with
-something to occupy your time. I originally began using Github to document my forays into keeping track of my preferred Neovim configurations onUbuntu that I use on Ubuntu. Like most projects, it is never kept sufficiently updated, but does help me to keep track of what I am currently doing. 
+If you are in a time wasting frame of mind, and reading such stuff as this README, I will do my best to provide you with
+something to occupy your time. I originally began using Github to document my forays into keeping track of my preferred Neovim configurations on Ubuntu. Like most of my projects, it is never kept sufficiently updated, but does help me to keep track of what I am currently doing. 
 
 COMING SOON:
 I plan to be adding a new  projects shortly. 
